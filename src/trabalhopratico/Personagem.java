@@ -22,8 +22,3 @@ public abstract class Personagem {
         return "Personagem:" + nome + descricao;
     }
 }
-
-//testando github
-//testando de novooosdjl
-//qawocuisjnwaschnioklmqacfs
-/iknascoink
