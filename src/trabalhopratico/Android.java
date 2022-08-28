@@ -22,7 +22,7 @@ public class Android extends Personagem {
     
     public String getCaixaMisteriosa(){
         Random gerarCaixa = new Random(); //classe Random
-        int caixa = gerarCaixa.nextInt(2); // o método nextInt gera um numero inteiro aleatório (0 ou 1)
+        int caixa = gerarCaixa.nextInt(2); //o método nextInt gera um numero inteiro aleatório (0 ou 1)
         
         if (caixa == 0)
             caixaMisteriosa = getMaldicao();
@@ -35,7 +35,6 @@ public class Android extends Personagem {
     public String getDescricao(){
         return super.getDescricao() + "Caixa Misteriosa: " + getCaixaMisteriosa();
     }    
-    //teste teste teste
 }
 
 //ANDROID
