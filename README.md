@@ -1,4 +1,5 @@
-# TrabalhoPraticoTPAE
-Códigos do Jogo - Trabalho Prático de TPAE
+# Jogo World of Zuul
+Trabalho Prático - Disciplina de Técnicas de Programação Aplicadas a Engenharia
+
 
 
